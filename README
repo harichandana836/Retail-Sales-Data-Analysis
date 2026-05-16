@@ -1,0 +1,32 @@
+# Real-world Data Project - Retail Sales Analysis
+
+## Objective
+Analyze a real-world retail sales dataset to uncover patterns, trends, and influencing factors.
+
+## Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Tasks Performed
+- Data exploration
+- Data cleaning
+- Statistical analysis
+- Visualization of sales trends
+- Correlation analysis
+
+## Visualizations
+- Weekly Sales Distribution
+- Temperature vs Sales
+- Fuel Price vs Sales
+- Correlation Heatmap
+
+## Key Insights
+- Sales distribution patterns were identified.
+- Temperature and fuel prices showed relationships with sales trends.
+- Correlation analysis helped identify influencing factors.
+
+## Outcome
+Learned how to apply data science techniques in a real-world retail business scenario.
